@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042E\u0440\u0430 \u041B\u043E\u0445\\source\\repos\\Project7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF195798-6ADD-4014-9548-FC23CBFC8A33}|Project7.vcxproj|C:\\Users\\\u042E\u0440\u0430 \u041B\u043E\u0445\\source\\repos\\Project7\\Lab_03_4.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF195798-6ADD-4014-9548-FC23CBFC8A33}|Project7.vcxproj|solutionrelative:Lab_03_4.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_03_4.cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\\u042E\u0440\u0430 \u041B\u043E\u0445\\source\\repos\\Project7\\Lab_03_4.cpp.cpp",
+              "RelativeDocumentMoniker": "Lab_03_4.cpp.cpp",
+              "ToolTip": "C:\\Users\\\u042E\u0440\u0430 \u041B\u043E\u0445\\source\\repos\\Project7\\Lab_03_4.cpp.cpp*",
+              "RelativeToolTip": "Lab_03_4.cpp.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T17:03:30.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
